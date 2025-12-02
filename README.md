@@ -42,10 +42,10 @@ A personal portfolio website to showcase my projects and skills. Built with HTML
 
 ## Contributions
 
-### [Open Source Project 1](https://github.com/open-source-project-1)
+### [Open Source Project 1](https://github.com/Aravind-510/Customer_Churn_Project)
 Contributed to fixing bugs and adding new features.
 
-### [Open Source Project 2](https://github.com/open-source-project-2)
+### [Open Source Project 2](https://github.com/Aravind-510/Netflix_recomendation)
 Worked on improving documentation and refactoring code.
 
 ## Get in Touch
