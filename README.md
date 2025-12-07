@@ -1,15 +1,16 @@
 # Hi there, I'm Aravind! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding, learning new technologies, and contributing to open-source projects.
 
 ## About Me
 
-I’m a passionate AI/ML and Data Science enthusiast with a strong foundation in Python, SQL, and analytics. I enjoy building data-driven solutions, exploring machine learning models, and transforming raw data into meaningful insights.
+I'm a detail-oriented postgraduate with a strong foundation in Artificial Intelligence, Machine Learning, and Data Science. Skilled in analytical problem-solving and data-driven insights, I'm eager to contribute to innovative AI-driven solutions.
+
+I'm recently completed my MBA in Information Technology at Baddam Balreddy Institute of Technology & Business School. I'm passionate about applying expertise to real-world business challenges through data science and machine learning
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/k-aravind-2b0b3b254) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aravind510510@gmail.com) 
 
-##💻 Tech Stack:
+## 💻 Tech Stack:
  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Machine Learning and Deep Learning
