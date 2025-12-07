@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm a detail-oriented postgraduate with a strong foundation in Artificial Intelligence, Machine Learning, and Data Science. Skilled in analytical problem-solving and data-driven insights, I'm eager to contribute to innovative AI-driven solutions.
+
 I'm recently completed my MBA in Information Technology at Baddam Balreddy Institute of Technology & Business School. I'm passionate about applying expertise to real-world business challenges through data science and machine learning.
 
 ## 🌐 Socials:
@@ -18,7 +19,7 @@ I'm recently completed my MBA in Information Technology at Baddam Balreddy Insti
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
 
-## Projects
+## Porfolio
 
-### [Project 1: My Portfolio Website](https://portfolio-website-547h.bolt.host/)
+### [My Portfolio Website](https://portfolio-website-547h.bolt.host/)
 A personal portfolio website to showcase my projects and skills.
