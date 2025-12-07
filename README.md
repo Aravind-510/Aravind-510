@@ -1,6 +1,6 @@
 # 💫 About Me:
-<br>I'm a detail-oriented postgraduate with a strong foundation in Artificial Intelligence, Machine Learning, and Data Science. Skilled in analytical problem-solving and data-driven insights, I'm eager to contribute to innovative AI-driven solutions.<br><br>I'm recently completed my MBA in Information Technology at Baddam Balreddy Institute of Technology & Business School. I'm passionate about applying expertise to real-world business challenges through data science and machine learning.
-
+I'm a detail-oriented postgraduate with a strong foundation in Artificial Intelligence, Machine Learning, and Data Science. Skilled in analytical problem-solving and data-driven insights, I'm eager to contribute to innovative AI-driven solutions.
+I'm recently completed my MBA in Information Technology at Baddam Balreddy Institute of Technology & Business School. I'm passionate about applying expertise to real-world business challenges through data science and machine learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/k-aravind-2b0b3b254/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aravind510510@gmail.com) 
@@ -22,11 +22,3 @@
 
 ### [Project 1: My Portfolio Website](https://portfolio-website-547h.bolt.host/)
 A personal portfolio website to showcase my projects and skills.
-
-
-
-
-
-Aravind-510/Aravind-510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
